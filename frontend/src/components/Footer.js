@@ -72,6 +72,13 @@ const Footer = () => {
               >
                 Blog
               </a>
+                     <a
+                href='/'
+                className='text-white mt-2'
+              >
+                Blog
+              </a>
+                  
               <a
                 href='/'
                 className='text-white mt-2'
